@@ -1,0 +1,17 @@
+* {
+    background-color: lightgray;
+}
+
+h1 {
+    color: red;
+    background-color: rgb(255, 190, 190);
+}
+
+a {
+    background-color: rgb(192, 255, 98);
+}
+
+h2 {
+    color: green;
+    background-color: greenyellow;
+}
